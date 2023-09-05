@@ -3,7 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbvarmora&label=Profile%20views&color=0e75b6&style=flat" alt="mbvarmora" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbvarmora" alt="mbvarmora" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbvarmora" alt="mbvarmora" /></a> </p>-->
+Hello everyone! 👋 Welcome to my GitHub profile! As a seasoned Full Stack Developer with expertise in Angular, Node.js, Laravel, and AWS, I'm thrilled to connect with professionals and companies looking for top-notch remote talent to collaborate on exciting projects.
+
+💡 Key Skills:
+I possess a versatile skill set, including but not limited to:
+
+<b>Frontend:</b> Angular, TypeScript, HTML5, CSS3, TailWind CSS, Boostrap</br>
+<b>Backend:</b> Node.js, Express, Adonis, Express.js, Laravel, PHP</br>
+<b>Cloud:</b> Amazon Web Services (AWS), </br>
+<b>CICD:</b> Git, GitHub, BitBucket, Docuker, Jenkins, Ansible </br>
+REST APIs and web services</br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
