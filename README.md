@@ -9,7 +9,7 @@ Hello everyone! 👋 Welcome to my GitHub profile! As a seasoned Full Stack Deve
 💡 Key Skills:
 I possess a versatile skill set, including but not limited to:
 
-<b>Frontend:</b> Angular, TypeScript, HTML5, CSS3, TailWind CSS, Boostrap</br>
+<b>Frontend:</b> Angular, NgXs, RxJS, TypeScript, JavaScript, HTML5, CSS3, TailWind CSS, Boostrap</br>
 <b>Backend:</b> Node.js, Express, Adonis, Express.js, Laravel, PHP</br>
 <b>Cloud:</b> Amazon Web Services (AWS), </br>
 <b>CICD:</b> Git, GitHub, BitBucket, Docuker, Jenkins, Ansible </br>
