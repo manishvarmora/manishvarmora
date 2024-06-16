@@ -39,9 +39,3 @@ REST APIs and web services</br>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  
   </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbvarmora&show_icons=true&locale=en&layout=compact" alt="mbvarmora" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbvarmora&show_icons=true&locale=en" alt="mbvarmora" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbvarmora&" alt="mbvarmora" /></p>
